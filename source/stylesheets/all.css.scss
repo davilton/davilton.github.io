@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+@import "bourbon";
+@import "base/base";
+@import "neat";
+
+#main {
+  @include outer-container;
+    
+}
